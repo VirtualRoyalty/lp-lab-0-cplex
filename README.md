@@ -1,5 +1,4 @@
-# Поиск максимальной клики 
-## с помощью CPLEX
+# Max clique problem  via CPLEX
 
 Альперович Вадим <br>
 ИАД21
