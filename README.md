@@ -32,8 +32,7 @@ python run_test.py
 
 **Пример вывода:**
 ```
-$ python .\main.py --filepath .\benchmarks\DIMACS_all_ascii\brock200_2.cl
-q --solver ILP
+$ python .\main.py --filepath .\benchmarks\DIMACS_all_ascii\brock200_2.clq --solver ILP
 
 Problem constructed for .\benchmarks\DIMACS_all_ascii\brock200_2.clq!
 Start solving...
