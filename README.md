@@ -8,9 +8,7 @@
 LP problem:
 
 ```python
-
 python main.py --filepath benchmarks\DIMACS_all_ascii\C125.9.clq --solver LP
-
 ```
  ILP problem:
  
